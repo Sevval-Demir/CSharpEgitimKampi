@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
+using System.Security;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -52,13 +53,92 @@ namespace _08_Methods
 
             #region Geriye Değer Döndürmeyen Int Parametreli Metotlar
 
-            void Sum(int number1,int number2,int number3)
+            //void Sum(int number1,int number2,int number3)
+            //{
+            //    int result = number1 + number2 + number3;
+            //    Console.WriteLine("Toplam: " + result);
+            //}
+
+            //Sum(2, 0, 4);
+
+            #endregion
+
+            #region Geriye Değer Döndüren Metotlar
+
+            //string CustomerName()
+            //{
+            //    return "Buse Yıldız";
+            //}
+
+            //CustomerName();
+
+            //string StudentCard()
+            //{
+            //    string name = "Ali";
+            //    string surname = "Kaya";
+
+            //    return name + " " + surname;
+            //}
+
+            //Console.WriteLine(StudentCard());
+
+            #endregion
+
+            #region Geriye Değer Döndüren String Parametreli Metotlar
+
+            //string CountryCard(string countryName,string capital,string flagColor)
+            //{
+            //    string cardInfo="Ülke: "+countryName+" - Başkent: "+ capital + " - Bayrak Rengi: " + flagColor;
+            //    return cardInfo;
+            //}
+
+            //string x, y, z;
+            //Console.Write("Ülke Adını Giriniz: ");
+            //x = Console.ReadLine();
+
+            //Console.Write("Başkenti Giriniz: ");
+            //y = Console.ReadLine();
+
+            //Console.Write("Bayrak Rengini Giriniz: ");
+            //z = Console.ReadLine();
+
+            //Console.WriteLine(CountryCard(x, y, z));
+
+            #endregion
+
+            #region Geriye Değer Döndüren Int Parametreli Metotlar
+
+            //int Sum(int number1,int number2)
+            //{
+            //    int result = number1 + number2;
+            //    return result;
+            //}
+
+            //Console.WriteLine(Sum(45, 98));
+            //Console.WriteLine(Sum(36, 25));
+            //Console.WriteLine(Sum(66, 22));
+            //Console.WriteLine(Sum(33, 55));
+
+
+            #endregion
+
+            #region Örnek Uygulama
+
+            String ExamResult(string student,int exam1,int exam2,int exam3)
             {
-                int result = number1 + number2 + number3;
-                Console.WriteLine("Toplam: " + result);
+                int result = (exam1 + exam2 + exam3) / 3;
+                if(result>=50)
+                {
+                    return student + " isimli öğrenci sınavı geçti" + " Ortalama: " + result;
+                }
+                else
+                {
+                    return student + " isimli öğrenci sınavı geçemedi" + " Ortalama: " + result;
+                }
             }
 
-            Sum(2, 0, 4);
+            Console.WriteLine(ExamResult("Ali", 10, 20, 30));
+            Console.WriteLine(ExamResult("Ayşe", 50, 60, 70));
 
             #endregion
             Console.Read();

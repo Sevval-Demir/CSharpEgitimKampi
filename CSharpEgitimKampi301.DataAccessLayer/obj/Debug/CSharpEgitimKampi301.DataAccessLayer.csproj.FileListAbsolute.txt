@@ -1,0 +1,17 @@
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.AssemblyReference.cache
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEg.01C77B6F.Up2Date
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.Migrations.mig1.resources
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.GenerateResource.cache

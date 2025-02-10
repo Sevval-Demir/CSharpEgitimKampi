@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\C#\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56C3E785-4EF5-428A-8B9E-1A5196C5172B}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\c#\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\context\\kampcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56C3E785-4EF5-428A-8B9E-1A5196C5172B}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\context\\kampcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56C3E785-4EF5-428A-8B9E-1A5196C5172B}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|c:\\c#\\csharpegitimkampi301\\csharpegitimkampi301.dataaccesslayer\\migrations\\202502101513041_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C3E785-4EF5-428A-8B9E-1A5196C5172B}|CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj|solutionrelative:csharpegitimkampi301.dataaccesslayer\\migrations\\202502101513041_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09AD3F0-B83B-4905-ABC1-458FB4728B05}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|c:\\c#\\csharpegitimkampi301\\csharpegitimkampi301.presentationlayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A09AD3F0-B83B-4905-ABC1-458FB4728B05}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{F548B253-7EF5-4394-87AE-A3A39BBF9E31}|CSharpEgitimKampi301.EntityLayer\\CSharpEgitimKampi301.EntityLayer.csproj|c:\\c#\\csharpegitimkampi301\\csharpegitimkampi301.entitylayer\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F548B253-7EF5-4394-87AE-A3A39BBF9E31}|CSharpEgitimKampi301.EntityLayer\\CSharpEgitimKampi301.EntityLayer.csproj|solutionrelative:csharpegitimkampi301.entitylayer\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\App.config",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\App.config",
-              "ToolTip": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\App.config",
-              "RelativeToolTip": "CSharpEgitimKampi301.PresentationLayer\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-02-02T21:32:54.2Z",
+              "DocumentIndex": 0,
+              "Title": "202502101513041_mig1.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Migrations\\202502101513041_mig1.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Migrations\\202502101513041_mig1.cs",
+              "ToolTip": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Migrations\\202502101513041_mig1.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Migrations\\202502101513041_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:13:08.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KampContext.cs",
-              "DocumentMoniker": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Context\\KampContext.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.DataAccessLayer\\Context\\KampContext.cs",
-              "ToolTip": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\Context\\KampContext.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.DataAccessLayer\\Context\\KampContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EntityLayer\\Concrete\\Customer.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EntityLayer\\Concrete\\Customer.cs",
+              "ToolTip": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EntityLayer\\Concrete\\Customer.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.EntityLayer\\Concrete\\Customer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T21:25:05.226Z",
+              "WhenOpened": "2025-02-10T15:12:23.676Z",
               "EditorCaption": ""
             }
           ]

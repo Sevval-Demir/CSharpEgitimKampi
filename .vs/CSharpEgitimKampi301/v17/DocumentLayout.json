@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\C#\\CSharpEgitimKampi301\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84422067-9D40-4054-9EAA-8129150A87EF}|CSharpEgitimKampi301.EF\\CSharpEgitimKampi301.EF.csproj|c:\\c#\\csharpegitimkampi301\\csharpegitimkampi301.ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{84422067-9D40-4054-9EAA-8129150A87EF}|CSharpEgitimKampi301.EF\\CSharpEgitimKampi301.EF.csproj|solutionrelative:csharpegitimkampi301.ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +27,22 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EF\\Model1.edmx",
+              "ToolTip": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "CSharpEgitimKampi301.EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-02-10T18:01:11.873Z",
+              "EditorCaption": " [Diagram1]"
             }
           ]
         }

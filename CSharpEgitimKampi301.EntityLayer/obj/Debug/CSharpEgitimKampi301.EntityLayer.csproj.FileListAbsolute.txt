@@ -1,0 +1,12 @@
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.dll
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.xml
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.csproj.AssemblyReference.cache
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEg.8B90B715.Up2Date
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.dll
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.pdb

@@ -1,0 +1,16 @@
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\bin\Debug\CSharpEgitimKampi301.EF.exe.config
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\bin\Debug\CSharpEgitimKampi301.EF.exe
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\bin\Debug\CSharpEgitimKampi301.EF.pdb
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\bin\Debug\EntityFramework.dll
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\bin\Debug\EntityFramework.xml
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\obj\Debug\CSharpEgitimKampi301.EF.csproj.AssemblyReference.cache
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\obj\Debug\CSharpEgitimKampi301.EF.Form1.resources
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\obj\Debug\CSharpEgitimKampi301.EF.Properties.Resources.resources
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\obj\Debug\CSharpEgitimKampi301.EF.csproj.GenerateResource.cache
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\obj\Debug\CSharpEgitimKampi301.EF.csproj.CoreCompileInputs.cache
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\obj\Debug\CSharpEg.DB08A79F.Up2Date
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\obj\Debug\CSharpEgitimKampi301.EF.exe
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\obj\Debug\CSharpEgitimKampi301.EF.pdb
+C:\C#\CSharpEgitimKampi301\CSharpEgitimKampi301.EF\obj\Debug\CSharpEgitimKampi301.EF.FormLocation.resources

@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\C#\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84422067-9D40-4054-9EAA-8129150A87EF}|CSharpEgitimKampi301.EF\\CSharpEgitimKampi301.EF.csproj|c:\\c#\\csharpegitimkampi301\\csharpegitimkampi301.ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{84422067-9D40-4054-9EAA-8129150A87EF}|CSharpEgitimKampi301.EF\\CSharpEgitimKampi301.EF.csproj|solutionrelative:csharpegitimkampi301.ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{84422067-9D40-4054-9EAA-8129150A87EF}|CSharpEgitimKampi301.EF\\CSharpEgitimKampi301.EF.csproj|c:\\c#\\csharpegitimkampi301\\csharpegitimkampi301.ef\\formlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84422067-9D40-4054-9EAA-8129150A87EF}|CSharpEgitimKampi301.EF\\CSharpEgitimKampi301.EF.csproj|solutionrelative:csharpegitimkampi301.ef\\formlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84422067-9D40-4054-9EAA-8129150A87EF}|CSharpEgitimKampi301.EF\\CSharpEgitimKampi301.EF.csproj|c:\\c#\\csharpegitimkampi301\\csharpegitimkampi301.ef\\formlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84422067-9D40-4054-9EAA-8129150A87EF}|CSharpEgitimKampi301.EF\\CSharpEgitimKampi301.EF.csproj|solutionrelative:csharpegitimkampi301.ef\\formlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EF\\Model1.edmx",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EF\\Model1.edmx",
-              "ToolTip": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EF\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "CSharpEgitimKampi301.EF\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-02-10T18:01:11.873Z",
-              "EditorCaption": " [Diagram1]"
+              "Title": "FormLocation.cs",
+              "DocumentMoniker": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EF\\FormLocation.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EF\\FormLocation.cs",
+              "ToolTip": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EF\\FormLocation.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.EF\\FormLocation.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwGAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:13:53.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLocation.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EF\\FormLocation.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EF\\FormLocation.cs",
+              "ToolTip": "C:\\C#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EF\\FormLocation.cs [Design]",
+              "RelativeToolTip": "CSharpEgitimKampi301.EF\\FormLocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:39:07.491Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
